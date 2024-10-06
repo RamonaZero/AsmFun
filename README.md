@@ -2,11 +2,11 @@
 x86_64 Assembly Projects for fun
 
 # Development Environment
-- OS: Archlinux (No Xorg!)
+- OS: OpenBSD (No Xorg!)
 - Architecture: x86_64 - AMD64
 - Editor: Emacs
 - Assembler: nasm
-- Linker: gnu-ld
+- Linker: clang
 - Debugger: gdb (intel syntax enabled)
 
 # Notes
